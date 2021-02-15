@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "firebase": "^5.8.5",
-    "gsap": "^2.1.2",
+    "gsap": "^3.6.0",
     "prettier": "^1.16.4",
     "vue": "^2.6.8",
     "vue-router": "^3.0.1"
